@@ -8,14 +8,14 @@ description: "Searchable, customizable, responsive, fast, free and usable in any
 
 _The free help center is perfect for indie hackers, solo founders and small products. This page lists features of the free help center._
 
-### Free
+### Gratis
 
 You can set up the help center for free. There are no upfront costs and no monthly costs.
 This makes it perfect for side-projects or if you're a startup in an early phase.
 
 The help center can grow with you, as it scales well with more content. If you ever need more advanced features offered by paid help centers, you can take your whole content to them easily.
 
-### Customizable
+### Aanpasbaar
 
 You'll always run into limits on what you can customize with paid, hosted solutions. Since you'll host the free help center yourself, and you have the whole source code, you can customize the whole help center to your wildest dreams.
 
